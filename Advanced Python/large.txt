@@ -1,0 +1,53 @@
+## About Me - Richard Otwoma
+
+### Chapter 1: A Curious Mind from East Africa  
+I’m Richard Otwoma, a data scientist and aspiring environmental technologist from Kenya. Growing up surrounded by the natural beauty of East Africa sparked my early fascination with nature and technology. This curiosity grew into a deep desire to understand the world through data and to use that understanding to create meaningful change—especially in areas that impact communities and the environment.
+
+### Chapter 2: Learning Through Data  
+My educational path has been shaped by a drive to explore how data can be used for problem-solving. Through the KCB Foundation, I earned a certification in Data Science, equipping me with practical skills in Python, pandas, scikit-learn, and NLTK. I’ve complemented this with intermediate SQL training as part of a data engineering program, allowing me to manage and analyze datasets with confidence.
+
+### Chapter 3: Data-Driven Projects for Real-World Impact  
+My portfolio is built on applying data science to solve relevant challenges. Notable projects include:
+- **Student Exam Performance Prediction**
+- **Stock Sentiment Prediction System**
+- **Medicine Recommendation System**
+- **Wildfire Prediction Challenge** ([GitHub](https://github.com/onyansi254/WildfirePredictionChallenge))
+
+In these projects, I used machine learning and analytics to uncover patterns and support decision-making. The wildfire project especially inspired me to explore the intersection of environmental science and data.
+
+### Chapter 4: From Code to Conservation  
+In 2024, I contributed to a data challenge with FreeBorn Inc. to identify the most suitable African city for a new headquarters. I analyzed air quality, sustainability, and cost-of-living data from Uganda, Kenya, Nigeria, and Burundi. This involved data cleaning, spatial analysis, and visual storytelling using tools like Google Sheets and Google Slides.
+
+This project reinforced how data can guide policy, highlight environmental inequities, and support sustainable urban development—values closely aligned with the goals of the National Geographic + Nature Conservancy Externship.
+
+### Chapter 5: Skills That Serve the Planet  
+Beyond data science, I have experience in:
+- **Front-end and Back-end Development** – creating web apps with HTML/CSS, Node.js, and MySQL
+- **Mapping and Geolocation Projects** – building a Django app that collects IP-based location data
+- **Retrieval-Augmented Generation (RAG)** – integrating LLMs and web scraping to retrieve contextual information
+
+These skills are not only technical—they’re tools I hope to apply in conservation, environmental mapping, and community-focused projects.
+
+Chapter 6: Values and Vision  
+I believe that technology should be a force for good. Whether it’s visualizing deforestation patterns or mapping underserved regions, I’m committed to using data to uplift both people and the planet. I’ve applied to initiatives like:
+- DLT Talents Program – to understand decentralized tech for transparency in climate action
+- Circular Economy Journey Nairobi – to address waste through innovation
+
+These experiences reflect my growing commitment to sustainability, impact-driven design, and ethical tech.
+
+Chapter 7: Looking Ahead  
+My goals include:
+- Becoming a leader in environmental data visualization and mapping
+- Using AI to monitor biodiversity, pollution, and urban sustainability
+- Collaborating with global teams on projects that merge conservation and technology
+
+I see the National Geographic + Nature Conservancy Externship as a stepping stone to contribute meaningfully, learn from experienced mentors, and grow as a conservation technologist.
+
+---
+
+GitHub: [onyansi254](https://github.com/onyansi254)  
+LinkedIn: [Richard Otwoma](https://www.linkedin.com/in/richard-otwoma-1b0145292/)  
+Email: ronyansi11@gmail.com
+
+I’m excited to bring my technical skills, global perspective, and purpose-driven mindset to this opportunity—and to contribute to the important mission of protecting our natural world through innovation and insight.
+
