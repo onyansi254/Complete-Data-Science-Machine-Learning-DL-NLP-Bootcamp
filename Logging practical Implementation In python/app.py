@@ -31,7 +31,7 @@ def multiply(a, b):
 def divide(a, b):
     try:
         result = a / b
-        logger.debug(f"Dividing {a} by {b} gives {result}")
+        logger.debug(f"Dividing {ag} by {b} gives {result}")
         return result
     except ZeroDivisionError:
         logger.error("Cannot divide by zero")
