@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Greeting Form</title>
+  <style>
+    body {
+      background: #f0f8ff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    form {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    input[type="text"] {
+      padding: 10px;
+      font-size: 1rem;
+      width: 250px;
+      margin-bottom: 10px;
+    }
+    input[type="submit"] {
+      padding: 10px 20px;
+      font-size: 1rem;
+      background: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    #greeting {
+      margin-top: 20px;
+      font-size: 1.5rem;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <form onsubmit="greetUser(event)">
+    <h2>Enter Your Name</h2>
+    <input type="text" id="nameInput" placeholder="Your name" required />
+    <br />
+    <input type="submit" value="Say Hello!" />
+  </form>
+
+  <div id="greeting"></div>
+
+  <script>
+    function greetUser(event) {
+      event.preventDefault();
+      const name = document.getElementById("nameInput").value;
+      document.getElementById("greeting").textContent = `Hello, ${name}! Welcome to our site.`;
+    }
+  </script>
+
+</body>
+</html>
