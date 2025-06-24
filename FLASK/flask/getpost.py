@@ -16,7 +16,8 @@ def submit():
     if request.method == 'POST':
         # Handle form submission logic here
         #return "Form submitted successfully!"
-        name=request.form.get('name')
+        name=request.form['name']
+        return f'Form submitted successfully! Hello, {name}'
     else:
         # Render the form for GET requests
         return render_template('submit.html')
